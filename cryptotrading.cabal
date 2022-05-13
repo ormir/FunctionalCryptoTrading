@@ -25,7 +25,12 @@ source-repository head
 
 library
   exposed-modules:
+      Action
+      Coin
       Lib
+      Market
+      Portfolio
+      Trader
   other-modules:
       Paths_cryptotrading
   hs-source-dirs:
